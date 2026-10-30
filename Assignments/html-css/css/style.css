@@ -1,0 +1,74 @@
+body {
+    margin: 0;
+}
+
+body {
+    margin: 0;
+    font-family: comic sans mc, sans-serif;
+    line-height: 1.5;
+    background-color: #f5f5f5;
+    color: black;
+    padding: 20px;
+}
+
+img {
+    max-width: 40%;
+    height: auto;
+}
+
+img {text-align: center;}
+html {
+  font-size: 16px;
+}
+
+body {
+  margin: 0;
+  font-family: "comic sans mc", "c", COURIER, sans-serif;
+  padding: 0 2rem;
+}
+
+img {
+  max-width: 100%;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+}
+
+.product-page-title {
+  font-family: Impact, Haettenschweiler, "common sans", sans-serif;
+}
+
+.smaller-image {
+  width: 60%;
+  align-self: center;
+}
+
+header img {
+  width: 50px;
+}
+
+header nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+h1 {
+  font-family: "Edu NSW ACT Cursive", cursive;
+  text-align: center;
+}
+
+main {
+  background-color: rgb(196, 35, 236);
+  padding: 1rem;
+}
+
+.contact-container {
+  display: flex;
+  gap: 3rem;
+}
+
+.contact-container img {
+  max-width: 12rem;
+}
