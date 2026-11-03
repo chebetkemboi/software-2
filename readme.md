@@ -37,5 +37,6 @@ _This list is updated automatically by the Metropolia ICT extension._
 - 8. Leap years in a list: ✔ completed, 3/3 test points (`js-1-2/assignment-8/assignment-8.js`)
 - 9. Prime number: ✔ completed, 2/2 test points (`js-1-2/assignment-9/assignment-9.js`)
 - 10. Dice probability by simulation: ✔ completed, 5/5 test points (`js-1-2/assignment-10/assignment-10.js`)
+- 11. Publish, push and submit your links: ✘ not completed yet, 0/3 test points
 
 <!-- metropolia:progress:end -->
