@@ -21,9 +21,10 @@ Add notes about any problems or extra features here.
 
 _This list is updated automatically by the Metropolia ICT extension._
 
-### HTML and CSS: company website (4 / 7 points)
+### HTML and CSS: company website (5 / 8 points)
 
 - 1. Company website: ✔ completed, 4/4 test points (`html-css/index.html`)
+- 2. Get feedback from the HTML+CSS checker: ✔ completed, 1/1 test points (`html-css/`)
 
 ### JS modules 1 and 2: Interactive programs and control structures (27.5 / 30 points)
 
@@ -38,5 +39,12 @@ _This list is updated automatically by the Metropolia ICT extension._
 - 9. Prime number: ✔ completed, 2/2 test points (`js-1-2/assignment-9/assignment-9.js`)
 - 10. Dice probability by simulation: ✔ completed, 5/5 test points (`js-1-2/assignment-10/assignment-10.js`)
 - 11. Publish, push and submit your links: ◐ partially completed, 0.5/3 test points
+
+### JS module 4: DOM and events (8 / 35 points)
+
+- 1. Add a list with innerHTML: ✔ completed, 2/2 test points (`js-4/t1/1.js`)
+- 2. Add a list with createElement(): ✔ completed, 2/2 test points (`js-4/t2/2.js`)
+- 3. A list from an array: ✔ completed, 2/2 test points (`js-4/t3/3.js`)
+- 4. Options from an array of objects: ✔ completed, 2/2 test points (`js-4/t4/4.js`)
 
 <!-- metropolia:progress:end -->
