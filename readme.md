@@ -40,6 +40,15 @@ _This list is updated automatically by the Metropolia ICT extension._
 - 10. Dice probability by simulation: ✔ completed, 5/5 test points (`js-1-2/assignment-10/assignment-10.js`)
 - 11. Publish, push and submit your links: ◐ partially completed, 0.5/3 test points
 
+### JS module 3: Arrays and functions (12 / 30 points)
+
+- 1. Numbers in reverse order: ✔ completed, 2/2 test points (`js-3/assignment-1/assignment-1.js`)
+- 2. Participants in alphabetical order: ✔ completed, 2/2 test points (`js-3/assignment-2/assignment-2.js`)
+- 3. Dogs in reverse alphabetical order: ✔ completed, 2/2 test points (`js-3/assignment-3/assignment-3.js`)
+- 4. Largest first: ✔ completed, 2/2 test points (`js-3/assignment-4/assignment-4.js`)
+- 5. Stop at a repeated number: ✔ completed, 2/2 test points (`js-3/assignment-5/assignment-5.js`)
+- 6. Roll until six: ✔ completed, 2/2 test points (`js-3/assignment-6/assignment-6.js`)
+
 ### JS module 4: DOM and events (8 / 35 points)
 
 - 1. Add a list with innerHTML: ✔ completed, 2/2 test points (`js-4/t1/1.js`)

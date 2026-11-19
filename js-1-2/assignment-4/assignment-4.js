@@ -14,3 +14,7 @@ if (randomNumber === 1) {
     house = "Ravenclaw";
 }
 document.getElementById("result").textContent = name + ", you are " + house + ".";
+
+
+
+

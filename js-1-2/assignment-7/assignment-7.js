@@ -8,3 +8,7 @@ for (let i = 0; i < numberOfRolls; i++) {
 }
 
 document.getElementById("result").textContent = "The sum of the dice rolls is " + sum;
+
+
+
+
